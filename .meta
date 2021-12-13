@@ -1,5 +1,13 @@
 {
   "projects": {
-    "dab/veilarbaktivitet": "https://github.com/navikt/veilarbaktivitet.git"
+    "dab/veilarbaktivitet": "https://github.com/navikt/veilarbaktivitet.git",
+    "dab/aktivitetsplan": "https://github.com/navikt/aktivitetsplan.git",
+    "dab/arbeidsrettet-dialog": "https://github.com/navikt/arbeidsrettet-dialog.git",
+    "dab/start-samtale": "https://github.com/navikt/start-samtale.git",
+    "dab/veilarbdialog": "https://github.com/navikt/veilarbdialog.git",
+    "dab/veilarbdirigent": "https://github.com/navikt/veilarbdirigent.git",
+    "dab/veilarblest": "https://github.com/navikt/veilarblest.git",
+    "dab/veilarbmalverk": "https://github.com/navikt/veilarbmalverk.git",
+    "dab/veilarbvarsel": "https://github.com/navikt/veilarbvarsel.git"
   }
 }
