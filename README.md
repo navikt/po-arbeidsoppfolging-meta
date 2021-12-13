@@ -17,6 +17,4 @@ meta git update
 ## Legg til nytt repo
 Legge til nytt repo `meta project import [team/repo] [repo url]`
 
-Når du har lagt til et nytt repo husk å legge til mappen i `vcs.xml`. Dette kan også gjøres under `Preferences | Version Control` i intelliJ
-
 For å se mer om hvordan meta funker se: https://github.com/mateodelnorte/meta
