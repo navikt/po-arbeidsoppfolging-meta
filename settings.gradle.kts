@@ -9,3 +9,22 @@
 
 rootProject.name = "po-arbeidsoppfolging-meta"
 
+includeBuild("felles/pus-decorator")
+includeBuild("felles/pus-nais-java-app")
+includeBuild("felles/pto-iac")
+includeBuild("felles/pto-playbook")
+includeBuild("felles/pto-proxy")
+includeBuild("felles/pto-frontend")
+includeBuild("felles/pto-aivia")
+includeBuild("felles/pto-admin")
+includeBuild("felles/frontendlogger")
+includeBuild("felles/veilarbproxy")
+includeBuild("dab/veilarbaktivitet")
+includeBuild("dab/aktivitetsplan")
+includeBuild("dab/arbeidsrettet-dialog")
+includeBuild("dab/start-samtale")
+includeBuild("dab/veilarbdialog")
+includeBuild("dab/veilarbdirigent")
+includeBuild("dab/veilarblest")
+includeBuild("dab/veilarbmalverk")
+includeBuild("dab/veilarbvarsel")
