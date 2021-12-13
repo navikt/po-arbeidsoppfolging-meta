@@ -16,6 +16,7 @@ meta git update
 
 ## Legg til nytt repo
 * Legge til nytt repo `meta project import [team/repo] [repo url]`
-* Legg til `includeBuild("[team/repo]")` i `settings.gradle.kts`
+* Legg til `includeBuild("[team/repo]")` i `settings.gradle.kts`. Dette legger til prosjektene som moduler i intelliJ
+
 
 For å se mer om hvordan meta funker se: https://github.com/mateodelnorte/meta
