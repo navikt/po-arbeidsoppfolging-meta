@@ -6,7 +6,7 @@ Meta repository med linking til alle applikasjonene våre
 For å clone ferdig setup
 ```
 npm i -g meta
-meta clone https://github.com/navikt/po-arbeidsoppfolging-meta.git
+meta git clone https://github.com/navikt/po-arbeidsoppfolging-meta.git
 ```
 Hvis du allerede har clonet
 ```
