@@ -18,6 +18,7 @@
     "dab/veilarbdirigent": "https://github.com/navikt/veilarbdirigent.git",
     "dab/veilarblest": "https://github.com/navikt/veilarblest.git",
     "dab/veilarbmalverk": "https://github.com/navikt/veilarbmalverk.git",
-    "dab/veilarbvarsel": "https://github.com/navikt/veilarbvarsel.git"
+    "dab/veilarbvarsel": "https://github.com/navikt/veilarbvarsel.git",
+    "felles/common-java-modules": "https://github.com/navikt/common-java-modules.git"
   }
 }
